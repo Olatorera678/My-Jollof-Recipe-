@@ -1,0 +1,15 @@
+body {
+    font-family:Arial, Helvetical,Sans-Serif ;
+    background-color: white;
+}
+
+h1 {
+    font-size: 32px;
+    color: Purple;
+    text-align-last: center;
+}
+
+p {
+    line-height: 1.8;
+    color: Purple;
+}
